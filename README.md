@@ -10,6 +10,8 @@ Simple RSA implementation written in C++ with a Python bootstrapper.
 
 Valid input types include number values, hex, binary (buggy), and filenames.
 
+![image](https://user-images.githubusercontent.com/42680395/94323447-d6deeb00-ff63-11ea-9a12-1b120eae99d5.png)
+
 ## CREDIT ##
 
 BigInt from https://github.com/faheel/BigInt
